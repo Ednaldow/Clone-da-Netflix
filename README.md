@@ -1,3 +1,3 @@
 # Clone-da-Netflix
 <br>
-https://ednaldow.github.io/Clone-da-Netflix/
+<a href="https://ednaldow.github.io/Clone-da-Netflix/">Clone da Netflix</a>
